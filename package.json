@@ -7,7 +7,7 @@
     "Zack Bloom <zackbloom@gmail.com>"
   ],
   "dependencies": {
-    "tether": "~0.6.5"
+    "tether": "git+http://github.com/HubSpot/tether.git"
   },
   "devDependencies": {
     "coffee-script": "~1.6.3",
